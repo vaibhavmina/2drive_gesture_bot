@@ -1,0 +1,54 @@
+[0.042s] Invoking command in '/home/vaibhav/ode_ws/build/our_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/vaibhav/ode_ws/src/our_bot -DCMAKE_INSTALL_PREFIX=/home/vaibhav/ode_ws/install/our_bot
+[0.207s] -- The C compiler identification is GNU 13.3.0
+[0.381s] -- The CXX compiler identification is GNU 13.3.0
+[0.454s] -- Detecting C compiler ABI info
+[0.747s] -- Detecting C compiler ABI info - done
+[0.765s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.766s] -- Detecting C compile features
+[0.767s] -- Detecting C compile features - done
+[0.801s] -- Detecting CXX compiler ABI info
+[1.128s] -- Detecting CXX compiler ABI info - done
+[1.150s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.150s] -- Detecting CXX compile features
+[1.152s] -- Detecting CXX compile features - done
+[1.158s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.566s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.789s] -- Found ament_lint_auto: 0.17.5 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[2.029s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.049s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.050s] -- Configured 'flake8' exclude dirs and/or files: 
+[2.053s] -- Added test 'lint_cmake' to check CMake code style
+[2.056s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.067s] -- Added test 'xmllint' to check XML markup files
+[2.074s] -- Configuring done (2.0s)
+[2.086s] -- Generating done (0.0s)
+[2.092s] -- Build files have been written to: /home/vaibhav/ode_ws/build/our_bot
+[2.110s] Invoked command in '/home/vaibhav/ode_ws/build/our_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/vaibhav/ode_ws/src/our_bot -DCMAKE_INSTALL_PREFIX=/home/vaibhav/ode_ws/install/our_bot
+[2.111s] Invoking command in '/home/vaibhav/ode_ws/build/our_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/vaibhav/ode_ws/build/our_bot -- -j6 -l6
+[2.241s] Invoked command in '/home/vaibhav/ode_ws/build/our_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/vaibhav/ode_ws/build/our_bot -- -j6 -l6
+[2.281s] Invoking command in '/home/vaibhav/ode_ws/build/our_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/vaibhav/ode_ws/build/our_bot
+[2.303s] -- Install configuration: ""
+[2.304s] -- Installing: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/config
+[2.305s] -- Installing: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/config/empty.yaml
+[2.306s] -- Installing: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/description
+[2.306s] -- Installing: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/description/robot.urdf.xacro
+[2.308s] -- Installing: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/launch
+[2.309s] -- Installing: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/launch/rsp.launch.py
+[2.309s] -- Installing: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/worlds
+[2.309s] -- Installing: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/worlds/empty.world
+[2.309s] -- Installing: /home/vaibhav/ode_ws/install/our_bot/share/ament_index/resource_index/package_run_dependencies/our_bot
+[2.310s] -- Installing: /home/vaibhav/ode_ws/install/our_bot/share/ament_index/resource_index/parent_prefix_path/our_bot
+[2.310s] -- Installing: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/environment/ament_prefix_path.sh
+[2.311s] -- Installing: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/environment/ament_prefix_path.dsv
+[2.311s] -- Installing: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/environment/path.sh
+[2.312s] -- Installing: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/environment/path.dsv
+[2.312s] -- Installing: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/local_setup.bash
+[2.312s] -- Installing: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/local_setup.sh
+[2.313s] -- Installing: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/local_setup.zsh
+[2.313s] -- Installing: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/local_setup.dsv
+[2.314s] -- Installing: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/package.dsv
+[2.314s] -- Installing: /home/vaibhav/ode_ws/install/our_bot/share/ament_index/resource_index/packages/our_bot
+[2.315s] -- Installing: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/cmake/our_botConfig.cmake
+[2.315s] -- Installing: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/cmake/our_botConfig-version.cmake
+[2.316s] -- Installing: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/package.xml
+[2.322s] Invoked command in '/home/vaibhav/ode_ws/build/our_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/vaibhav/ode_ws/build/our_bot

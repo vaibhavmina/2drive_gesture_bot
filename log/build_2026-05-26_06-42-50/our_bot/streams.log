@@ -1,0 +1,40 @@
+[0.082s] Invoking command in '/home/vaibhav/ode_ws/build/our_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/vaibhav/ode_ws/src/our_bot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/vaibhav/ode_ws/install/our_bot
+[0.235s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.827s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.947s] -- Found ament_lint_auto: 0.17.5 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.248s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.270s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.271s] -- Configured 'flake8' exclude dirs and/or files: 
+[1.276s] -- Added test 'lint_cmake' to check CMake code style
+[1.280s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.292s] -- Added test 'xmllint' to check XML markup files
+[1.307s] -- Configuring done (1.1s)
+[1.349s] -- Generating done (0.0s)
+[1.357s] -- Build files have been written to: /home/vaibhav/ode_ws/build/our_bot
+[1.371s] Invoked command in '/home/vaibhav/ode_ws/build/our_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/vaibhav/ode_ws/src/our_bot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/vaibhav/ode_ws/install/our_bot
+[1.373s] Invoking command in '/home/vaibhav/ode_ws/build/our_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/vaibhav/ode_ws/build/our_bot -- -j6 -l6
+[1.512s] Invoked command in '/home/vaibhav/ode_ws/build/our_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/vaibhav/ode_ws/build/our_bot -- -j6 -l6
+[1.547s] Invoking command in '/home/vaibhav/ode_ws/build/our_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/vaibhav/ode_ws/build/our_bot
+[1.573s] -- Install configuration: ""
+[1.574s] -- Execute custom install script
+[1.575s] -- Symlinking: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/config/empty.yaml
+[1.605s] -- Symlinking: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/description/robot.urdf.xacro
+[1.628s] -- Symlinking: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/description/robot_core.xacro
+[1.659s] -- Symlinking: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/launch/rsp.launch.py
+[1.689s] -- Symlinking: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/worlds/empty.world
+[1.718s] -- Symlinking: /home/vaibhav/ode_ws/install/our_bot/share/ament_index/resource_index/package_run_dependencies/our_bot
+[1.746s] -- Symlinking: /home/vaibhav/ode_ws/install/our_bot/share/ament_index/resource_index/parent_prefix_path/our_bot
+[1.773s] -- Symlinking: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/environment/ament_prefix_path.sh
+[1.806s] -- Symlinking: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/environment/ament_prefix_path.dsv
+[1.836s] -- Symlinking: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/environment/path.sh
+[1.865s] -- Symlinking: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/environment/path.dsv
+[1.892s] -- Symlinking: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/local_setup.bash
+[1.931s] -- Symlinking: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/local_setup.sh
+[1.957s] -- Symlinking: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/local_setup.zsh
+[1.982s] -- Symlinking: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/local_setup.dsv
+[2.017s] -- Symlinking: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/package.dsv
+[2.044s] -- Symlinking: /home/vaibhav/ode_ws/install/our_bot/share/ament_index/resource_index/packages/our_bot
+[2.070s] -- Symlinking: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/cmake/our_botConfig.cmake
+[2.098s] -- Symlinking: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/cmake/our_botConfig-version.cmake
+[2.146s] -- Symlinking: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/package.xml
+[2.179s] Invoked command in '/home/vaibhav/ode_ws/build/our_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/vaibhav/ode_ws/build/our_bot

@@ -1,0 +1,30 @@
+[0.039s] Invoking command in '/home/vaibhav/ode_ws/build/our_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/vaibhav/ode_ws/build/our_bot -- -j6 -l6
+[0.490s] Invoked command in '/home/vaibhav/ode_ws/build/our_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/vaibhav/ode_ws/build/our_bot -- -j6 -l6
+[0.566s] Invoking command in '/home/vaibhav/ode_ws/build/our_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/vaibhav/ode_ws/build/our_bot
+[0.602s] -- Install configuration: ""
+[0.605s] -- Execute custom install script
+[0.606s] -- Up-to-date symlink: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/config/empty.yaml
+[0.607s] -- Up-to-date symlink: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/config/view_bot.rviz
+[0.609s] -- Up-to-date symlink: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/description/gazebo_control.xacro
+[0.610s] -- Up-to-date symlink: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/description/inertial_macros.xacro
+[0.611s] -- Up-to-date symlink: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/description/robot.urdf.xacro
+[0.613s] -- Up-to-date symlink: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/description/robot_core.xacro
+[0.614s] -- Up-to-date symlink: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/launch/launch_sim.launch.py
+[0.616s] -- Up-to-date symlink: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/launch/rsp.launch.py
+[0.617s] -- Up-to-date symlink: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/worlds/empty.world
+[0.618s] -- Up-to-date symlink: /home/vaibhav/ode_ws/install/our_bot/share/ament_index/resource_index/package_run_dependencies/our_bot
+[0.619s] -- Up-to-date symlink: /home/vaibhav/ode_ws/install/our_bot/share/ament_index/resource_index/parent_prefix_path/our_bot
+[0.625s] -- Up-to-date symlink: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/environment/ament_prefix_path.sh
+[0.625s] -- Up-to-date symlink: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/environment/ament_prefix_path.dsv
+[0.625s] -- Up-to-date symlink: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/environment/path.sh
+[0.625s] -- Up-to-date symlink: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/environment/path.dsv
+[0.626s] -- Up-to-date symlink: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/local_setup.bash
+[0.626s] -- Up-to-date symlink: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/local_setup.sh
+[0.628s] -- Up-to-date symlink: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/local_setup.zsh
+[0.630s] -- Up-to-date symlink: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/local_setup.dsv
+[0.632s] -- Symlinking: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/package.dsv
+[0.670s] -- Up-to-date symlink: /home/vaibhav/ode_ws/install/our_bot/share/ament_index/resource_index/packages/our_bot
+[0.671s] -- Up-to-date symlink: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/cmake/our_botConfig.cmake
+[0.672s] -- Up-to-date symlink: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/cmake/our_botConfig-version.cmake
+[0.672s] -- Up-to-date symlink: /home/vaibhav/ode_ws/install/our_bot/share/our_bot/package.xml
+[0.676s] Invoked command in '/home/vaibhav/ode_ws/build/our_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/vaibhav/ode_ws/build/our_bot
